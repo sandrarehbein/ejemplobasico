@@ -5,6 +5,7 @@ $(document).ready(function() {
     $("#btn").click(function() {
        console.log("hola");
        console.log(h1);
+       document.write("VAMONOS");
       $("#titulo_1").click(function(){
           document.write("cambiar texto sobre ");
       });
